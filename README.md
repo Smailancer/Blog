@@ -30,7 +30,7 @@ rails db:migrate
 
 - Finally run the server by typing the command :
 ````bash
-> rails server 
+rails server 
 ````
 you will find your app working at `http://localhost:3000`
 
