@@ -1,24 +1,49 @@
-# README
+# Blog FrameWork
+A simple framework for a personal blog.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+**Home Page:**
 
-* System dependencies
 
-* Configuration
+![Pic from the Home page](https://i.suar.me/nBrmg/l)
 
-* Database creation
+**Show page for each blog :**
 
-* Database initialization
 
-* How to run the test suite
+![show page for blog](https://i.suar.me/2YwN9/l)
 
-* Services (job queues, cache servers, search engines, etc.)
+**Add New Blog Page:**
 
-* Deployment instructions
 
-* ...
+![Add New Blog](https://i.suar.me/MBgl9/l)
+
+
+
+## Ruby and Rails Versions:
+- `Ruby 3.0.2`
+- `Rails 6.1.4`
+## How to use it  :
+
+- Clon the project to your machine using the command:
+````bash
+git clone git@github.com:smaily1/blog.git
+````
+- Change the directory to the project by typing `cd blog` than install the gems by typing :
+````bash
+bundle install
+````
+- Migration step and creating tabels in your database :
+````bash
+rails db:migrate
+````
+
+- Finally run the server by typing the command :
+````bash
+> rails server 
+````
+you will find your app working at `http://localhost:3000`
+
+## ملاحظات :
+I know that the design of the blog is bad, I am trying to develop myself in this aspect now
+> Any other suggestions I would be happy to add to the application. Thank you.
