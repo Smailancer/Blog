@@ -5,18 +5,8 @@ A simple framework for a personal blog.
 
 **Home Page:**
 
+![Pic from the Home page](https://i.suar.me/vYy6B/l)
 
-![Pic from the Home page](https://i.suar.me/nBrmg/l)
-
-**Show page for each blog :**
-
-
-![show page for blog](https://i.suar.me/2YwN9/l)
-
-**Add New Blog Page:**
-
-
-![Add New Blog](https://i.suar.me/MBgl9/l)
 
 
 
@@ -44,6 +34,6 @@ rails db:migrate
 ````
 you will find your app working at `http://localhost:3000`
 
-## ملاحظات :
+## Notes :
 I know that the design of the blog is bad, I am trying to develop myself in this aspect now
 > Any other suggestions I would be happy to add to the application. Thank you.
